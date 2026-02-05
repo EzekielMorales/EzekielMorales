@@ -1,60 +1,50 @@
-# Hi there, I'm Supasit (Tew) 👋
-### 👨‍💻 Software Engineering Student | Aspiring QA, Tester & BA
+## 🛠️ My Journey
 
-I am a 3rd-year Software Engineering student at the Faculty of Informatics, **Burapha University**. I have a strong passion for **Software Testing (QA)**, **Business Analysis (BA)**, and **Artificial Intelligence (AI)**.
+Hello! I'm **Supasit (Tew) Meedecha**, a **Software Engineering Student** specializing in **System Testing (QA)** and **Full Stack Development**.
+
+Currently, I'm a 3rd-year student at **Burapha University**. I combine the mindset of a **Tester** with the technical skills of a **Developer** to build reliable and bug-free systems.
+
+* 🌍 Based in **Chonburi, Thailand**
+* 🔭 Working on **Automated Testing** & **Web Applications**
+* 🧠 Focus: **QA, Software Testing, Business Analysis (BA)**
 
 ---
 
-### 🛠️ Tech Stack
+### 💼 **Featured Experience & Projects**
+
+| Role / Project | Key Achievement | Tech Stack |
+| :--- | :--- | :--- |
+| **System Testing** <br> *(Current Project)* | Developed **E2E Automated Tests** to verify system functionality and ensure software quality. | `Playwright` `TypeScript` `VS Code` |
+| **Cultura** <br> *(Full Stack)* | Built a **Tourism Community Management System** with real-time API integration. | `React` `Tailwind` `Express` `MySQL` `Prisma` |
+| **Work Request System** <br> *(Backend)* | Developed an internal **repair request system** for organizational use. | `Laravel` `PHP` `MySQL` |
+| **Scary Escape** <br> *(Game Dev)* | Created a **Horror Survival Game** logic and inventory system. | `Unity` `C#` |
+
+---
+
+### 💻 **Tech Stack**
+
+**Experience Levels**
+
+| Level | Technologies |
+| :--- | :--- |
+| **Proficient** | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
+| **Intermediate** | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB) ![SQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) |
+| **Tools** | ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat&logo=playwright&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white) |
+
+---
+
+### 🌐 **Socials**
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white" />
+  <a href="https://www.linkedin.com/in/supasit-meedecha-771bb0340/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </p>
 
 ---
 
-### 🚀 Experience & Projects
-
-| Year | Project | Role & Tech | Description |
-| :--- | :--- | :--- | :--- |
-| **2025** | **System Testing** 🎭✅ | **QA / Tester**<br>*(Playwright)* | **Automated System Testing:** Developed E2E test scripts using **Playwright** to verify system functionality and ensure software quality. |
-| **2025** | **Cultura** ✈️🗺️ | **Full Stack Developer**<br>*(React, Tailwind, Express, MySQL)* | **Tourism Community Management System:** A web application to manage tourism communities. Designed UI/UX and tested API endpoints. |
-| **2024** | **Work Request System** 🛠️⚙️ | **Backend Developer**<br>*(Laravel Framework)* | An internal system for managing work orders and repair requests within the organization. |
-| **2023** | **Scary Escape** 👻🔦 | **Game Developer**<br>*(Unity, C#)* | A **Horror Survival Game** where players must find missing parts to escape while evading enemies. |
-| **2023** | **Quiz Blast** 🧠🚀 | **Developer**<br>*(Java)* | A Java-based **Quiz Application** featuring question categories, multiple-choice selection, and an automated scoring system. |
-| **2023** | **Tank Apocalypse** 💥🛡️ | **Game Developer**<br>*(Scratch)* | An **Action-Arcade Strategy Game** simulating a war scenario. Players must survive tank attacks and capture strategic points. |
-
----
-
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EzekielMorales&theme=radical&hide_border=true" alt="Streak" />
-</p>
+### 📊 **GitHub Stats**
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=EzekielMorales&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EzekielMorales&show_icons=true&theme=radical&hide_border=true" alt="Stats" />
 </p>
-
----
-
-### 📫 Connect with me
-
-<a href="https://www.linkedin.com/in/supasit-meedecha-771bb0340/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
