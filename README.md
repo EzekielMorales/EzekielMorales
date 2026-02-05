@@ -45,8 +45,9 @@ I am a 3rd-year Software Engineering student at the Faculty of Informatics, **Bu
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=EzekielMorales&show_icons=true&theme=radical&hide_border=true" alt="Ezekiel's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzekielMorales&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+![Ezekiel's Stats](https://github-readme-stats.vercel.app/api?username=EzekielMorales&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EzekielMorales&layout=compact&theme=radical)
 </p>
 
 ---
