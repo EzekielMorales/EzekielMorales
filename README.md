@@ -5,7 +5,7 @@
 
 ### 🚀 สถิติ GitHub ของผม
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=EzekielMorales&show_icons=true&theme=radical" alt="Ezekiel's Stats" />
+![Ezekiel's GitHub stats](https://github-readme-stats.vercel.app/api?username=EzekielMorales&show_icons=true&theme=radical)
 </p>
 
 ### 🛠️ เครื่องมือที่ใช้
