@@ -7,13 +7,12 @@ I am a 3rd-year Software Engineering student at the Faculty of Informatics, **Bu
 
 ### 🛠️ Tech Stack
 
-| Category | Skills |
-| :--- | :--- |
-| **Languages** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,html,css,js,ts,cs" /></a> |
-| **Frontend** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" /></a> |
-| **Backend** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=express,laravel,nodejs" /></a> |
-| **Database & ORM** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,prisma" /></a> |
-| **Tools & QA** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma,unity,vscode,postman,github" /></a> |
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,html,css,js,ts,cs,react,tailwind,bootstrap,express,laravel,nodejs,mysql,prisma,figma,unity,vscode,postman,github&perline=10" />
+  </a>
+</p>
+
 ---
 
 ### 🚀 Experience & Projects
@@ -26,7 +25,6 @@ I am a 3rd-year Software Engineering student at the Faculty of Informatics, **Bu
 | **2023** | **Scary Escape** 👻🔦 | **Game Dev**<br>*(Unity, C#)* | A **Horror Survival Game** where players must find missing parts to escape while evading enemies. |
 | **2023** | **Quiz Blast** 🧠🚀 | **Developer**<br>*(Java)* | A Java-based **Quiz Application** featuring question categories and automated scoring. |
 | **2023** | **Tank Apocalypse** 💥🛡️ | **Game Dev**<br>*(Scratch)* | An **Action-Arcade Strategy Game** simulating a war scenario. |
-
 
 ---
 
