@@ -30,6 +30,20 @@ I am a 3rd-year Software Engineering student at the Faculty of Informatics, **Bu
 
 ### 📫 Connect with me
 
-<a href="https://www.linkedin.com/in/supasit-meedecha-771bb0340/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/supasit-meedecha-771bb0340/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://discord.com/users/1017279786739056671" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
+  <a href="mailto:66160098@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+| Platform | Details |
+| :--- | :--- |
+| **📞 Phone** | `+66 83 739 2007` |
+| **📧 Email** | `66160098@gmail.com` <br> `basszad3107@gmail.com` |
+| **👾 Discord** | UID: `1017279786739056671` |
