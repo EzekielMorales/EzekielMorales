@@ -43,9 +43,12 @@ I am a 3rd-year Software Engineering student at the Faculty of Informatics, **Bu
 ---
 
 ### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EzekielMorales&theme=radical&hide_border=true" alt="Streak" />
+</p>
 
 <p align="left">
-![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=EzekielMorales&show_icons=true&theme=radical)
+  <img src="https://github-profile-trophy.vercel.app/?username=EzekielMorales&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
 </p>
 
 ---
