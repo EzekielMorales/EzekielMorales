@@ -1,50 +1,58 @@
-# สวัสดีครับ! ผมชื่อ ศุภสิทธิ์ (ทิว) 👋
-### 👨‍💻 Software Engineering Student | Aspiring QA & Tester
+# Hi there, I'm Supasit (Tew) 👋
+### 👨‍💻 Software Engineering Student | Aspiring QA, Tester & BA
 
-ผมเป็นนิสิตชั้นปีที่ 3 สาขาวิศวกรรมซอฟต์แวร์ คณะวิทยาการสารสนเทศ **มหาวิทยาลัยบูรพา** ผมมีความสนใจเป็นพิเศษในด้าน **Software Testing (QA), Business Analysis (BA) และ AI** ครับ
-
----
-
-### 🛠️ Tech Stack & Tools
-**Languages** ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-
-**Frameworks & Libraries** ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-
-**Tools & Database** ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![Postman/Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
+I am a 3rd-year Software Engineering student at the Faculty of Informatics, **Burapha University**. I have a strong passion for **Software Testing (QA)**, **Business Analysis (BA)**, and **Artificial Intelligence (AI)**.
 
 ---
 
-### 🚀 Project Experience timeline
+### 🛠️ Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white" />
+</p>
+
+---
+
+### 🚀 Experience & Projects
 
 | Year | Project | Role & Tech | Description |
 | :--- | :--- | :--- | :--- |
-| **2025** | **Cultura** | **Full Stack Developer**<br>*(React, Tailwind, TS, Express, Prisma)* | **Tourism Community Management System:** พัฒนาระบบบริหารจัดการชุมชนท่องเที่ยวร่วมกับทีม *Tralalero Tralala* ครอบคลุมทั้ง Frontend และ Backend เชื่อมต่อ Database ด้วย MySQL |
-| **2024** | **Work Request System** | **Backend / Dev**<br>*(Laravel Framework)* | ระบบแจ้งซ่อมและสั่งงานภายในองค์กร พัฒนาร่วมกับทีม *Cluster 3* |
-| **2023** | **Scary Escape** | **Game Developer**<br>*(Unity, C#)* | เกมแนว Horror Survival ผู้เล่นต้องหาชิ้นส่วนเพื่อหาทางออก พัฒนาร่วมกับทีม *Cluster 3* |
-| **2023** | **Quiz Blast** | **Developer**<br>*(Java)* | แอปพลิเคชันแบบทดสอบความรู้ (Quiz) มีระบบคำนวณคะแนนและแบ่งหมวดหมู่คำถาม |
-| **2023** | **Tank Apocalypse** | **Game Developer**<br>*(Scratch)* | เกม Action/Arcade จำลองสถานการณ์สงคราม ผู้เล่นต้องวางแผนกลยุทธ์เพื่อเข้ายึดจุดยุทธศาสตร์ |
+| **2025** | **System Testing** 🎭✅ | **QA / Tester**<br>*(Playwright)* | **Automated System Testing:** Developed E2E test scripts using **Playwright** to verify system functionality and ensure software quality. |
+| **2025** | **Cultura** ✈️🗺️ | **Full Stack Developer**<br>*(React, Tailwind, Express, MySQL)* | **Tourism Community Management System:** A web application to manage tourism communities. Designed UI/UX and tested API endpoints. |
+| **2024** | **Work Request System** 🛠️⚙️ | **Backend Developer**<br>*(Laravel Framework)* | An internal system for managing work orders and repair requests within the organization. |
+| **2023** | **Scary Escape** 👻🔦 | **Game Developer**<br>*(Unity, C#)* | A **Horror Survival Game** where players must find missing parts to escape while evading enemies. |
+| **2023** | **Quiz Blast** 🧠🚀 | **Developer**<br>*(Java)* | A Java-based **Quiz Application** featuring question categories, multiple-choice selection, and an automated scoring system. |
+| **2023** | **Tank Apocalypse** 💥🛡️ | **Game Developer**<br>*(Scratch)* | An **Action-Arcade Strategy Game** simulating a war scenario. Players must survive tank attacks and capture strategic points. |
 
 ---
 
 ### 📊 GitHub Stats
+
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=EzekielMorales&show_icons=true&theme=radical" alt="Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzekielMorales&layout=compact&theme=radical" alt="Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EzekielMorales&show_icons=true&theme=radical&hide_border=true" alt="Ezekiel's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzekielMorales&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
 ### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/supasit-meedecha-771bb0340/)
+
+<a href="https://www.linkedin.com/in/supasit-meedecha-771bb0340/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
