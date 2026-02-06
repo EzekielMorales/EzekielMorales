@@ -6,12 +6,12 @@ I am a 3rd-year Software Engineering student at the Faculty of Informatics, **Bu
 ---
 
 ### 🏃‍♂️ Hobbies & Interests
-<p align="left">
+<!-- <p align="left">
   <img src="https://img.shields.io/badge/🍔_Eating-00B4D8?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🎬_Movies-0077B6?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🎧_Music-480CA8?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🎮_Gaming-3A0CA3?style=for-the-badge" />
-</p>
+</p> -->
 <p align="left">
   <img src="https://img.shields.io/badge/🎬_Movies-FF0000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🍔_Eating-FF7F00?style=for-the-badge" />
