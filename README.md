@@ -64,5 +64,5 @@ I am a 3rd-year Software Engineering student at the Faculty of Informatics, **Bu
 | Platform | Details |
 | :--- | :--- |
 | **📞 Phone** | `+66 83 739 2007` |
-| **📧 Email** | `66160098@gmail.com` <br> `basszad3107@gmail.com` |
+| **📧 Email** | `supasit.mee@gmail.com` <br> `basszad3107@gmail.com` <br> `66160098@gmail.com`|
 | **👾 Discord** | UID: `1017279786739056671` |
