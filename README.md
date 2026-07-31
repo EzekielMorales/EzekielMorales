@@ -33,7 +33,7 @@ I am a 3rd-year Software Engineering student at the Faculty of Informatics, **Bu
 <!-- Tech Stack -->
 <p align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=FF00FF&center=false&vCenter=true&width=400&height=40&lines=%F0%9F%9B%A0%EF%B8%8F+Tech+Stack" alt="Tech Stack" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=9D00FF&center=false&vCenter=true&width=400&height=40&lines=%F0%9F%9B%A0%EF%B8%8F+Tech+Stack" alt="Tech Stack" />
   </a>
 </p>
 
