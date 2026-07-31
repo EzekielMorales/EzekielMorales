@@ -1,6 +1,12 @@
 # Hi there, I'm Supasit (Tew) 👋
 ### 👨‍💻 Software Engineering Student | Aspiring QA, Tester & BA
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&width=550&height=50&lines=Software+Engineering+Student+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Aspiring+QA%2C+Tester+%26+BA+%F0%9F%8E%AD;Passionate+about+AI+%26+Testing+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</p>
+
 I am a 3rd-year Software Engineering student at the Faculty of Informatics, **Burapha University**. I have a strong passion for **Software Testing (QA)**, **Business Analysis (BA)**, and **Artificial Intelligence (AI)**.
 
 ---
