@@ -34,6 +34,18 @@ I am a 3rd-year Software Engineering student at the Faculty of Informatics, **Bu
 
 ---
 
+### 🐍 Contribution Graph
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EzekielMorales/EzekielMorales/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EzekielMorales/EzekielMorales/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EzekielMorales/EzekielMorales/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+---
+
 ### 🚀 Experience & Projects
 
 | Year | Project | Role & Tech | Description |
