@@ -24,7 +24,9 @@ I am a 3rd-year Software Engineering student at the Faculty of Informatics, **Bu
   <img src="https://img.shields.io/badge/🎮_Gaming-8A2BE2?style=for-the-badge" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+<br><br>
+---
 
 
 <!-- Tech Stack -->
