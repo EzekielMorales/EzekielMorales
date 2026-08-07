@@ -12,11 +12,7 @@ I am a 3rd-year Software Engineering student at the Faculty of Informatics, **Bu
 ---
 
 <!-- Hobbies & Interests -->
-<p align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00FF6F&center=false&vCenter=true&width=400&height=40&lines=%F0%9F%8F%83%E2%80%8D%E2%99%82%EF%B8%8F+Hobbies+%26+Interests" alt="Hobbies & Interests" />
-  </a>
-</p>
+## 🏃‍♂️ Hobbies & Interests
 
 <p align="left">
   <img src="https://img.shields.io/badge/🎬_Movies-FF0000?style=for-the-badge" />
@@ -31,11 +27,7 @@ I am a 3rd-year Software Engineering student at the Faculty of Informatics, **Bu
 ---
 
 <!-- Tech Stack -->
-<p align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=9D00FF&center=false&vCenter=true&width=400&height=40&lines=%F0%9F%9B%A0%EF%B8%8F+Tech+Stack" alt="Tech Stack" />
-  </a>
-</p>
+## 🛠️ Tech Stack
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -46,11 +38,7 @@ I am a 3rd-year Software Engineering student at the Faculty of Informatics, **Bu
 ---
 
 <!-- Contribution Graph -->
-<p align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00E5FF&center=false&vCenter=true&width=400&height=40&lines=%F0%9F%90%8D+Contribution+Graph" alt="Contribution Graph" />
-  </a>
-</p>
+## 🐍 Contribution Graph
 
 <p align="center">
   <picture>
@@ -63,11 +51,7 @@ I am a 3rd-year Software Engineering student at the Faculty of Informatics, **Bu
 ---
 
 <!-- Experience & Projects -->
-<p align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=FFD700&center=false&vCenter=true&width=450&height=40&lines=%F0%9F%9A%80+Experience+%26+Projects" alt="Experience & Projects" />
-  </a>
-</p>
+## 🚀 Experience & Projects
 
 | Year | Project | Role & Tech | Description |
 | :--- | :--- | :--- | :--- |
@@ -81,11 +65,7 @@ I am a 3rd-year Software Engineering student at the Faculty of Informatics, **Bu
 ---
 
 <!-- Connect with me -->
-<p align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=FF007F&center=false&vCenter=true&width=400&height=40&lines=%F0%9F%93%AB+Connect+with+me" alt="Connect with me" />
-  </a>
-</p>
+## 📬 Connect with me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/supasit-meedecha-771bb0340/" target="_blank">
