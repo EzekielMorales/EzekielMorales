@@ -12,7 +12,7 @@ I am a 3rd-year Software Engineering student at the Faculty of Informatics, **Bu
 ---
 
 <!-- Hobbies & Interests -->
-## Hobbies & Interests <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Person%20Running.png" alt="Person Running" width="35" height="35" />
+## Hobbies & Interests <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Person%20Running.png" alt="Person Running" width="25" height="25" />
 
 <p align="left">
   <img src="https://img.shields.io/badge/🎬_Movies-FF0000?style=for-the-badge" />
@@ -38,7 +38,7 @@ I am a 3rd-year Software Engineering student at the Faculty of Informatics, **Bu
 ---
 
 <!-- Contribution Graph -->
-## Contribution Graph <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="35" height="35" />
+## Contribution Graph <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="25" height="25" />
 
 <p align="center">
   <picture>
@@ -51,7 +51,7 @@ I am a 3rd-year Software Engineering student at the Faculty of Informatics, **Bu
 ---
 
 <!-- Experience & Projects -->
-## Experience & Projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="35" height="35" />
+## Experience & Projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" />
 
 | Year | Project | Role & Tech | Description |
 | :--- | :--- | :--- | :--- |
@@ -65,7 +65,7 @@ I am a 3rd-year Software Engineering student at the Faculty of Informatics, **Bu
 ---
 
 <!-- Connect with me -->
-## Connect with me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" alt="Incoming Envelope" width="35" height="35" />
+## Connect with me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" alt="Incoming Envelope" width="25" height="25" />
 
 <p align="left">
   <a href="https://www.linkedin.com/in/supasit-meedecha-771bb0340/" target="_blank">
