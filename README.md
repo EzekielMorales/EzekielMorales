@@ -67,20 +67,46 @@ I am a 3rd-year Software Engineering student at the Faculty of Informatics, **Bu
 <!-- Connect with me -->
 ## Connect with me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" alt="Incoming Envelope" width="25" height="25" />
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/supasit-meedecha-771bb0340/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://discord.com/users/1017279786739056671" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" />
-  </a>
-  <a href="mailto:66160098@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
-
-| Platform | Details |
-| :--- | :--- |
-| **📞 Phone** | `+66 83 739 2007` |
-| **📧 Email** | `supasit.mee@gmail.com` <br> `basszad3107@gmail.com` <br> `66160098@gmail.com`|
-| **👾 Discord** | UID: `1017279786739056671` |
+<table border="0">
+  <tr>
+    <td valign="top" width="55%">
+      <p align="left">
+        <a href="https://www.linkedin.com/in/supasit-meedecha-771bb0340/" target="_blank">
+          <img src="https://skillicons.dev/icons?i=linkedin" />
+        </a>
+        <a href="https://discord.com/users/1017279786739056671" target="_blank">
+          <img src="https://skillicons.dev/icons?i=discord" />
+        </a>
+        <a href="mailto:66160098@gmail.com" target="_blank">
+          <img src="https://skillicons.dev/icons?i=gmail" />
+        </a>
+      </p>
+      <br />
+      <table>
+        <thead>
+          <tr>
+            <th align="left">Platform</th>
+            <th align="left">Details</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><b>📞 Phone</b></td>
+            <td><code>+66 83 739 2007</code></td>
+          </tr>
+          <tr>
+            <td><b>📧 Email</b></td>
+            <td><code>supasit.mee@gmail.com</code><br><code>basszad3107@gmail.com</code><br><code>66160098@gmail.com</code></td>
+          </tr>
+          <tr>
+            <td><b>👾 Discord</b></td>
+            <td>UID: <code>1017279786739056671</code></td>
+          </tr>
+        </tbody>
+      </table>
+    </td>
+    <td valign="top" align="center" width="45%">
+      <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400" />
+    </td>
+  </tr>
+</table>
