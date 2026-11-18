@@ -79,7 +79,7 @@ I am a 3rd-year Software Engineering student at the Faculty of Informatics, **Bu
         <a href="https://discord.com/users/1017279786739056671" target="_blank">
           <img src="https://skillicons.dev/icons?i=discord" />
         </a>
-        <a href="mailto:66160098@gmail.com" target="_blank">
+        <a href="mailto:supasit.mee@gmail.com" target="_blank">
           <img src="https://skillicons.dev/icons?i=gmail" />
         </a>
       </p>
@@ -98,7 +98,7 @@ I am a 3rd-year Software Engineering student at the Faculty of Informatics, **Bu
           </tr>
           <tr>
             <td><b>📧 Email</b></td>
-            <td><code>supasit.mee@gmail.com</code><br><code>basszad3107@gmail.com</code><br><code>66160098@gmail.com</code></td>
+            <td><code>supasit.mee@gmail.com</code><br><code>basszad3107@gmail.com</code></td>
           </tr>
           <tr>
             <td><b>👾 Discord</b></td>
