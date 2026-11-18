@@ -112,7 +112,11 @@ I am a 3rd-year Software Engineering student at the Faculty of Informatics, **Bu
     <td valign="top" align="center" width="45%">
       <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400" />
       <br /><br />
-      <img src="assets/quote.png" width="300" />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="assets/quote-dark.png">
+        <source media="(prefers-color-scheme: light)" srcset="assets/quote-light.png">
+        <img alt="what is done with love is done well — Van Gogh" src="assets/quote-dark.png" width="300" />
+      </picture>
     </td>
   </tr>
 </table>
